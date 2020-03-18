@@ -59,6 +59,14 @@ ul {
   list-style-type: none;
 }
 
+#picture {
+	width: 55%;
+	border-radius: 12px;
+	border: 2px solid #ddd;
+	padding: 2px;
+	position: relative;
+}
+	
 #education {
   float: left;
   text-align: left;
@@ -85,3 +93,4 @@ ul {
   padding-bottom: 10px;
   text-align: right;  	
 }
+
